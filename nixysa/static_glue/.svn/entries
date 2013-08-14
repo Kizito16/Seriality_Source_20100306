@@ -1,0 +1,31 @@
+8
+
+dir
+67
+http://nixysa.googlecode.com/svn/trunk/nixysa/static_glue
+http://nixysa.googlecode.com/svn
+
+
+
+2010-01-29T02:05:53.664303Z
+64
+maf@google.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5cb0ffaa-091e-11de-b55b-d397e7115e68
+
+npapi
+dir
+

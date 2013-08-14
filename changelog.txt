@@ -1,0 +1,18 @@
+20100110
+  Initial release
+
+20100111
+  Changed: 'apiVersion' to 1.1
+  Changed: 'apiVersion' to type double
+  Changed: 'speed' parameter of begin() is now optional, defaults to 9600
+  Fixed Bug: begin() now returns false when a port is open
+  Fixed Bug: readByte() now bitmasks to return reliable value
+  Added: 'port' property
+  Added: 'speed' property
+
+20100306
+  Changed: 'apiVersion' to 1.2
+  Changed: Nixysa now latest stable release (R67)
+  Fixed Bug: Snow Leopard Safari 4 compatible (32 & 64 bit compatible)
+  Fixed Bug: readLine() now expects CRLF (omits CR) for Wiring/Arduino
+  Added: readUntil(int) for specialized protocols

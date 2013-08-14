@@ -1,0 +1,43 @@
+8
+
+dir
+67
+http://nixysa.googlecode.com/svn/trunk/third_party/npapi
+http://nixysa.googlecode.com/svn
+
+
+
+2009-11-09T21:56:50.462572Z
+61
+apatrick@google.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5cb0ffaa-091e-11de-b55b-d397e7115e68
+
+include
+dir
+
+COPYING
+file
+
+
+
+
+2010-03-07T05:35:10.000000Z
+6a168402790208145f7dc05e95de08ce
+2009-03-20T06:48:30.468533Z
+5
+piman@google.com
+

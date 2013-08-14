@@ -1,0 +1,52 @@
+8
+
+dir
+62
+http://nixysa.googlecode.com/svn/trunk
+http://nixysa.googlecode.com/svn
+
+
+
+2009-12-04T20:31:36.090271Z
+62
+gman@google.com
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5cb0ffaa-091e-11de-b55b-d397e7115e68
+
+tools
+dir
+
+COPYING
+file
+
+
+
+
+2010-01-02T08:49:41.000000Z
+3b83ef96387f14655fc854ddc3c6bd57
+2009-03-19T01:59:17.826762Z
+2
+piman@google.com
+
+third_party
+dir
+
+nixysa
+dir
+
+examples
+dir
+

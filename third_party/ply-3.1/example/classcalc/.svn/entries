@@ -1,0 +1,41 @@
+8
+
+dir
+67
+http://nixysa.googlecode.com/svn/trunk/third_party/ply-3.1/example/classcalc
+http://nixysa.googlecode.com/svn
+
+
+
+2009-03-19T01:59:17.826762Z
+2
+piman@google.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5cb0ffaa-091e-11de-b55b-d397e7115e68
+
+calc.py
+file
+
+
+
+
+2010-03-07T05:35:09.000000Z
+7f38cd87bcb66063002cdae65634304b
+2009-03-19T01:59:17.826762Z
+2
+piman@google.com
+has-props
+

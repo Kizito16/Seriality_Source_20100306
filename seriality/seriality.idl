@@ -1,0 +1,31 @@
+// Seriality: Serial Connectivity Plug-in
+// Copyright 2010 Nicholas Zambetti
+// Creative Commons Attribution-Share Alike 3.0
+//
+// Based on original sources from the Google Nixysa Project
+// Copyright 2009 Google Inc.
+// Apache License, Version 2.0
+//
+
+[binding_model=by_value, include="seriality.h"] class Seriality {
+  Seriality();
+  bool begin(std::string port, int speed);
+  bool begin(std::string port);
+  void end();
+  int readByte();
+  std::string read();
+  std::string readLine();
+  std::string readJSON();
+  std::string readUntil(int until);
+  bool writeByte(int out);
+  bool write(std::string out);
+  bool write(int out);
+  bool write(float out);
+  bool write(double out);
+  int available();
+  void refreshPorts();
+  [getter] std::string[] ports_;
+  [getter] std::string port_;
+  [getter] int speed_;
+  [getter] double api_version_;
+};
